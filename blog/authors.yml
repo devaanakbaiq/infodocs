@@ -21,3 +21,13 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+deva:
+  name: Angga Devananda
+  title: Anak Magang
+  url: https://github.com/devaanakbaiq
+  image_url: https://github.com/devaanakbaiq.png
+  page: true
+  socials:
+    ig: https://www.instagram.com/devananda24/
+    github: devaanakbaiq

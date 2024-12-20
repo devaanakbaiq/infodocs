@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'InfoDocs',
+  title: 'InfoDocs Kominfo',
   tagline: 'Dokumentasi Kominfo',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/dpsfavicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -78,7 +78,7 @@ const config = {
         title: 'InfoDocs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/inlogo.svg',
         },
         items: [
           //{
@@ -89,8 +89,8 @@ const config = {
           //},
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/kominfo-denpasar',
+            label: 'Kominfo',
             position: 'right',
           },
         ],
